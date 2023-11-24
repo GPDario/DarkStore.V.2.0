@@ -1,0 +1,17 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    padding: 10px; /* Ajusta el espaciado según sea necesario */
+    background-color: #ffffff; /* Ajusta el color de fondo según tus preferencias */
+  }
+  
+  .imagen-Perfil {
+    width: 40px; /* Ajusta el tamaño de la imagen de perfil según sea necesario */
+    height: 40px;
+    border-radius: 50%; /* Hace que la imagen sea circular */
+    margin-right: 10px; /* Ajusta el margen derecho según sea necesario */
+  }
+  .imagen{
+    width: 100px;
+    height: 100px;
+  }
